@@ -1,0 +1,46 @@
+.formContainer{
+    padding: 10px;
+
+}
+.form{
+    background-color: #f7f8fa;
+    margin: 20px auto;
+    border: 1px solid #e0d7d7;
+    padding: 20px;
+    border-radius: 8px;
+}
+.inputWrap{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.formInner{
+    display: flex;
+    justify-content: space-between;
+}
+.fileBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.file{
+    padding: 12px;
+    border: 1px solid #e0d7d7;
+    text-align: center;
+}
+.file label{
+    cursor: pointer;
+}
+.file img{
+    height: 100px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+}
+.buttons button a{
+    text-decoration: none;
+    color: #333333;
+}

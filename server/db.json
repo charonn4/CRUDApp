@@ -1,0 +1,295 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": [
+        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      ],
+      "name": "ew",
+      "status": "archive",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "39999"
+        },
+        {
+          "aktobe": "40000"
+        },
+        {
+          "taldykorgan": "40018"
+        }
+      ],
+      "aboutProduct": "<p>устройство для регистрации неподвижных изображений (получения фотографий)</p>"
+    },
+    {
+      "id": 2,
+      "img": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+      ],
+      "name": "earphones",
+      "status": "active",
+      "price": [
+        {
+          "general": "3000"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "<p>устройство для персонального прослушивания музыки, речи или иных звуковых сигналов</p>"
+    },
+    {
+      "id": 3,
+      "img": [
+        "https://cccstore.ru/upload/iblock/2d4/2d4b555aebe0a9cae72acd4930561bcc.webp"
+      ],
+      "name": "cube",
+      "status": "archive",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "2000"
+        },
+        {
+          "aktobe": "2000"
+        },
+        {
+          "taldykorgan": "2000"
+        }
+      ],
+      "aboutProduct": "механическая головоломка, изобретённая в 1974 году"
+    },
+    {
+      "id": 4,
+      "img": [
+        "https://cdn.pixabay.com/photo/2020/05/26/09/32/product-5222398_960_720.jpg"
+      ],
+      "name": "sunglasses",
+      "status": "archive",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "4000"
+        },
+        {
+          "aktobe": "4200"
+        },
+        {
+          "taldykorgan": "4300"
+        }
+      ],
+      "aboutProduct": "Прибор из двух стёкол на дужках, употр. при ненормальном зрении или для защиты глаз"
+    },
+    {
+      "id": 5,
+      "img": [
+        "https://media.istockphoto.com/photos/skin-and-hair-care-beauty-product-mockup-lotion-bottle-oil-cream-on-picture-id1198863709?k=20&m=1198863709&s=612x612&w=0&h=fIKFkMvxGYvKW1ZjUc-QZDJqRaYnrr2UeUh91ItPfog="
+      ],
+      "name": "bottles",
+      "status": "archive",
+      "price": [
+        {
+          "general": "8200"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "ёмкость для долговременного хранения жидкостей"
+    },
+    {
+      "id": 6,
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttYWizJBzdxf8QzdHWgXP_g9QQQEiJNLatQ&usqp=CAU"
+      ],
+      "name": "phone",
+      "status": "active",
+      "price": [
+        {
+          "general": "11000"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "аппарат для передачи и приёма звука на расстоянии"
+    },
+    {
+      "id": 7,
+      "img": [
+        "https://shop-almaty.kz/files/products/412hes89lwl1_4.800x600w.jpg?f4921e8a150ffc1f0d198a3cde9c09c1"
+      ],
+      "name": "laptop",
+      "status": "archive",
+      "price": [
+        {
+          "general": "22000"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "переносной компьютер, в корпусе которого объединены типичные компоненты ПК"
+    },
+    {
+      "id": 8,
+      "img": [
+        "https://image.shutterstock.com/image-photo/modern-flat-screen-computer-monitor-260nw-1491612221.jpg"
+      ],
+      "name": "PC",
+      "status": "active",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "80000"
+        },
+        {
+          "aktobe": "90000"
+        },
+        {
+          "taldykorgan": "87000"
+        }
+      ],
+      "aboutProduct": "устройство или система, способная автоматически выполнять заданную, изменяемую последовательность операций"
+    },
+    {
+      "id": 9,
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCE_gbBc5WLRCtLGXu6gtYTiJdg2JPeVW8Gg&usqp=CAU"
+      ],
+      "name": "watch",
+      "status": "archive",
+      "price": [
+        {
+          "general": "10000"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "Прибор для измерения времени в пределах суток"
+    },
+    {
+      "id": 10,
+      "img": [
+        "https://cdn.eksmo.ru/v2/ITD000000001087043/COVER/cover1__w220.jpg"
+      ],
+      "name": "book",
+      "status": "archive",
+      "price": [
+        {
+          "general": "1000"
+        },
+        {
+          "almaty": ""
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "aboutProduct": "один из видов печатной продукции"
+    },
+    {
+      "id": 11,
+      "img": [
+        "https://kubarik.kz/upload/iblock/a94/p883039gdaezzfna8lhyzkrxau7q0ia0.jpg"
+      ],
+      "name": "pen",
+      "status": "active",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "200"
+        },
+        {
+          "aktobe": "50"
+        },
+        {
+          "taldykorgan": "100"
+        }
+      ],
+      "aboutProduct": "письменная принадлежность"
+    },
+    {
+      "id": 12,
+      "name": "12341",
+      "status": "active",
+      "price": [
+        {
+          "general": ""
+        },
+        {
+          "almaty": "33"
+        },
+        {
+          "aktobe": ""
+        },
+        {
+          "taldykorgan": ""
+        }
+      ],
+      "img": [
+        "blob:http://localhost:3000/4b973026-3715-4996-8a41-f68e37e3589c",
+        "blob:http://localhost:3000/b99fd2c9-2820-47db-b76f-c2c7b6b4ab03"
+      ],
+      "aboutProduct": ""
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "almaty"
+    },
+    {
+      "id": 2,
+      "name": "aktobe"
+    },
+    {
+      "id": 3,
+      "name": "taldykorgan"
+    }
+  ]
+}
